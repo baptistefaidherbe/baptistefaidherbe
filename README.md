@@ -6,8 +6,8 @@ Before the code, I was an system/network Administrator, and in 2021, I deciced t
 
 - Developpement Front : 
     > JS /
-    > HTML5 / CSS / SASS
-    > REATC / NEXT.JS / REDUX
+    > HTML5 / CSS / SASS /
+    > REATC / NEXT.JS / REDUX /
     > Bootstrap
 
 - Developpement Back : 
