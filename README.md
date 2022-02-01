@@ -5,7 +5,7 @@ Before the code, I was an system/network Administrator, and in 2021, I deciced t
 ### My skills : 
 
 - Developpement Front : 
-    > JS
+    > JS /
     > HTML5 / CSS / SASS
     > REATC / NEXT.JS / REDUX
     > Bootstrap
