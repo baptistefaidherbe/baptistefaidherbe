@@ -11,26 +11,25 @@ Before the code, I was an system/network Administrator, and in 2021, I deciced t
     > Bootstrap
 
 - Developpement Back : 
-    > NODE.JS / EXPRESS
-    > SQL / NOSQL
-    > POSTGRESQL / MYSQL 
-    > MONGODB /MONGOOSE
+    > NODE.JS / EXPRESS /
+    > SQL / NOSQL /
+    > POSTGRESQL / MYSQL /
+    > MONGODB /MONGOOSE /
     > SOCKET.IO
   
- - Infra :
-    Système : 
-      > Windows server 2008r2 / 2012 / 2016
-      > Windows 7 / 8 / 10
-      > Linux Ubuntu / Debian
-      > VMWARE ESXI / HYPER-V
-      > DOCKER
-      > NGINX
-      > Storage SAN / ISCSI
+  - Système : 
+      > Windows server 2008r2 / 2012 / 2016 /
+      > Windows 7 / 8 / 10 /
+      > Linux Ubuntu / Debian /
+      > VMWARE ESXI / HYPER-V /
+      > DOCKER /
+      > NGINX /
+      > Storage SAN / ISCSI /
       > ...
 
-     Network : 
-      > LAN, WAN, WIFI
-      > Conf switch, routeur...
-      > Routage OSPF, RIP, BGP...
-      > VLAN
+   - Network : 
+      > LAN, WAN, WIFI /
+      > Conf switch, routeur... /
+      > Routage OSPF, RIP, BGP... /
+      > VLAN /
       > ...
